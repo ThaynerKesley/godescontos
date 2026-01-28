@@ -1,0 +1,10 @@
+# Ignora arquivos de dados (XLSX, CSV, XLS)
+*.xlsx
+*.csv
+*.xls
+
+# Ignora pastas de ambiente virtual e cache
+__pycache__/
+.streamlit/
+venv/
+.env
